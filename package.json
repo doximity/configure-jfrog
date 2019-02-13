@@ -1,6 +1,6 @@
 {
   "name": "configure-jfrog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Configure JFrog Artifactory for an NPM package.",
   "repository": "doximity/configure-jfrog",
   "bugs": {
